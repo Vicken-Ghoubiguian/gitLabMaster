@@ -1,0 +1,19 @@
+{
+  "name": "gitlabmaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gitLabMaster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicken-Ghoubiguian/gitLabMaster.git"
+  },
+  "author": "wicken",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Vicken-Ghoubiguian/gitLabMaster/issues"
+  },
+  "homepage": "https://github.com/Vicken-Ghoubiguian/gitLabMaster#readme"
+}
