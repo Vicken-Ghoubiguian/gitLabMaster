@@ -1,24 +1,24 @@
-class User {
+export class User {
 	
 
 }
 
-class Organization {
+export class Organization {
 	
 
 }
 
-class Repos {
+export class Repos {
 	
 
 }
 
-class License {
+export class License {
 	
 
 }
 
-class UsefulFunctions {
+export class UsefulFunctions {
 	
 	
 }
