@@ -1,7 +1,7 @@
 {
   "name": "@wicken/gitlabmaster",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project consists to develop an NPM module for in-depth research and consultation and even full administration of GitLab",
   "main": "gitLabMaster.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
